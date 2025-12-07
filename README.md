@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Justine Matthew M. Puno
-- 👀 I’m interested in Web developing
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML, CSS AND Javascript
 - 💞️ I’m looking to collaborate on creating website projects
 - 📫 How to reach me you can send email and messages through my email: punojustinematthew3@gmail.com
