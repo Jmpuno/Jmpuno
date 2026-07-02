@@ -82,14 +82,10 @@ Co-developing full infrastructure and backend, with 80%+ of backend API function
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jmpuno&show_icons=true&theme=dark&bg_color=000000&title_color=A259FF&text_color=ffffff&border_color=8A2BE2&icon_color=A259FF&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Jmpuno&show_icons=true&theme=dark&bg_color=000000&title_color=A259FF&text_color=ffffff&border_color=8A2BE2&icon_color=A259FF&count_private=true&cache_seconds=86400" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jmpuno&theme=dark&background=000000&border=8A2BE2&stroke=8A2BE2&ring=A259FF&fire=A259FF&currStreakLabel=A259FF" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jmpuno&layout=compact&theme=dark&bg_color=000000&title_color=A259FF&text_color=ffffff&border_color=8A2BE2" height="165"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jmpuno&layout=compact&theme=dark&bg_color=000000&title_color=A259FF&text_color=ffffff&border_color=8A2BE2&cache_seconds=86400" height="165"/>
 </div>
-
 ---
 
 <div align="center">
