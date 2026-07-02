@@ -50,7 +50,7 @@
 ## 🚀 Featured Projects
 
 ### ☁️ Serverless File Processing Pipeline
-`AWS · Terraform · Python` — [github.com/Jmpuno/aws-serverless-pipeline-infra](https://github.com/Jmpuno/aws-serverless-pipeline-infra)
+`AWS · Terraform · Python`
 
 Event-driven, production-grade serverless pipeline, fully provisioned with **Terraform** across 9 modular components (compute, storage, messaging, notifications, observability).
 
