@@ -1,11 +1,9 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8A2BE2&height=200&section=header&text=Hi,%20I'm%20Matthew!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A259FF&center=true&vCenter=true&width=650&lines=Aspiring+Cloud+Engineer+%E2%98%81%EF%B8%8F;BS+Computer+Science+%E2%80%A2+3rd+Year;AWS+%2B+Terraform+%2B+Serverless;Seeking+Cloud+Engineering+Internships" alt="Typing SVG" />
-
 </div>
-
+<br>
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif">
 <br>
 
 <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif">
